@@ -19,7 +19,7 @@ export default function About() {
         <img
           src="/kevin-at-work.jpeg"
           alt="Kevin Nduka coding at his desk"
-          className="w-full max-h-80 object-cover object-top"
+          className="w-full max-h-80 object-contain object-top"
         />
       </div>
 
